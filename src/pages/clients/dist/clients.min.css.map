@@ -1,0 +1,1 @@
+{"version":3,"sources":["clients.scss"],"names":[],"mappings":"AAAA,QACE,QAAS,KACT,MAAO,KAGT,yBACE,KAAM","file":"clients.min.css","sourcesContent":[".client{\r\n    display: flex;\r\n    width: 100%;\r\n    .clientContainer{\r\n        flex: 6;\r\n    }\r\n}"]}

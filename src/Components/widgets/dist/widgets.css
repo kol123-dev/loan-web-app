@@ -1,0 +1,8 @@
+.widget {
+  display: flex;
+  justify-content: space-between;
+  flex: 1;
+  padding: 10px;
+}
+
+/*# sourceMappingURL=widgets.css.map */

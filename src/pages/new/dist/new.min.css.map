@@ -1,0 +1,1 @@
+{"version":3,"sources":["new.scss"],"names":[],"mappings":"AAAA,KACE,MAAO,KACP,QAAS,KAGX,mBACE,KAAM","file":"new.min.css","sourcesContent":[".new{\r\n    width: 100%;\r\n    display: flex;\r\n\r\n    .newContainer{\r\n        flex: 6;\r\n    }\r\n}"]}

@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["widgets.scss"],"sourcesContent":[".widget{\r\n    \r\n    display: flex;\r\n    justify-content: space-between;\r\n    flex: 1;\r\n    padding: 10px;\r\n\r\n    \r\n\r\n}"],"file":"widgets.css"}

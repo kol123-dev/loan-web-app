@@ -1,0 +1,10 @@
+.client {
+  display: flex;
+  width: 100%;
+}
+
+.client .clientContainer {
+  flex: 6;
+}
+
+/*# sourceMappingURL=clients.css.map */

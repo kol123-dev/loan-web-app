@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["new.scss"],"sourcesContent":[".new{\r\n    width: 100%;\r\n    display: flex;\r\n\r\n    .newContainer{\r\n        flex: 6;\r\n    }\r\n}"],"file":"new.css"}
